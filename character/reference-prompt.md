@@ -5,7 +5,7 @@ Source: user specification. Applies to all reference series A–E.
 ## Series and status
 | ID | Content | Status |
 |---|---|---|
-| A1 | Frontal face, neutral | open |
+| A1 | Frontal face, neutral | v1 + v2 generated (Nano Banana Pro, 4K, 3:4), selection pending |
 | A2–A6 | 45° left/right, 90° profile left/right, rear three-quarter | open |
 | B1–B6 | Full body: front, 45°, 90°, back | open (B6 needs back references) |
 | C1–C8 | Tattoo documentation | open (see bible, open questions) |
