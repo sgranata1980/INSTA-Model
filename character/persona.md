@@ -6,6 +6,7 @@
 | | |
 |---|---|
 | Name | Stefania (Kurzform auf der Hand: STEF) |
+| Instagram / Threads | @stefania.senzavoce |
 | Alter | 29 (A), geboren 1997 in Mailand |
 | Herkunft | Italienisch-deutsch: Mutter Mailänderin, Vater aus Frankfurt (A) |
 | Wohnort | Frankfurt am Main, seit 2019 (A) |
