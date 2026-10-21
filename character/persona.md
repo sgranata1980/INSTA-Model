@@ -13,6 +13,7 @@
 | Stimme | Von Geburt an stumm, hört normal |
 | Kommunikation | Gebärdensprache (LIS aus der Kindheit, später DGS) (A), Schrift, Blicke |
 | Beruf | Künstlerin und Fotografin |
+| Kamera | Fujifilm X-T5 silber, K&F-Adapter, Nikon AF 85 mm 1.8D und AF 80–200 mm 2.8 ED (siehe props/) |
 | Sprache der Posts | Englisch |
 | Leidenschaften | Hip-Hop, Schach, Mercedes 500 SEC, Marathon, Kunst, Design, Fashion |
 
