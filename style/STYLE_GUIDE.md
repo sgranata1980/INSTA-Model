@@ -1,5 +1,15 @@
 # Visual language – Stefania
 
+## Main direction (updated): high-fashion editorial
+References: `editorial_bw_01.png` (main reference, Artlist asset uploaded), `runway_01.png` (mood only).
+- **Black-and-white studio editorial** in the 90s style (Lindbergh school): grey seamless, large soft side light, silver-gelatin tonality, deep blacks, grain, unretouched skin, tousled hair
+- Poses: sitting on the floor, leaning, relaxed instead of posed; direct, calm gaze
+- Wardrobe: oversized black blazer as the only top, boots; tattoos are part of the image composition
+- Runway moments as a second line (fashion shows, backstage), but always photographed realistically, never illustrative
+- Street style (below) remains a complementary third line
+
+---
+
 Reference: `style/reference/streetstyle_01.png`, `streetstyle_02.png` (from the user). Artlist asset of 01 is uploaded and is passed as a style reference.
 
 ## Core
