@@ -26,7 +26,8 @@ Primary references (use these for all future generations):
 | C7 | C7_right_leg_v2.png | C7_right_leg.png rejected (too light) |
 | C8 | C8_ankles_feet.png | |
 | D1–D8 | D*_*.png | all usable |
-| E1–E4, E6 | E*_*.png | usable |
+| E1–E4 | E*_*.png | usable |
+| E6 | E6_seated_fixed.png | letters removed from the left (watch) hand |
 | E5 | E5_gesture_fixed.png | finger tattoos removed, STEF inserted per STEF_METHOD |
 
 Known open point: in the master the vertical line runs OVER the crop top. Attempt to edit it into skin-only failed (no visible change); all generated images therefore follow the master.
