@@ -20,7 +20,7 @@ Side convention: **"right/left" always means HER right/left**, not as seen from 
 |---|---|
 | Both arms | Solid blackwork sleeves from shoulder to wrist, with ornamental and floral negative-space patterns where skin shows through |
 | Right hand, back | Nautical star with floral elements |
-| Right hand, fingers | Lettering **"STEF"**, one letter per finger (index finger to little finger) |
+| Right hand, fingers | Letters **"STEF"**, one per finger: S little finger, T ring finger, E middle finger, F index finger; letters aligned along the finger, top towards the knuckle; reference: character/props/tattoo_STEF_reference.png |
 | Left hand, back | Flower/mandala motif (partly hidden in the reference, since the hand is in the pocket) |
 | Neck, front | Thin vertical black line starting under the chin, running along the midline of the torso to the lower abdomen |
 | Neck, left side | Small black Latin cross |
